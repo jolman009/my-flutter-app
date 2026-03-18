@@ -1,0 +1,19 @@
+# Flutter / Dart tool output
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+
+# Local SDK checkout used only on this machine
+flutter/
+
+# IDE / OS files
+.DS_Store
+.idea/
+.vscode/
+
+# Generated platform and build metadata
+**/Generated.xcconfig
+**/flutter_export_environment.sh
