@@ -17,3 +17,8 @@ flutter/
 # Generated platform and build metadata
 **/Generated.xcconfig
 **/flutter_export_environment.sh
+
+# Generated project files
+.metadata
+*.iml
+.claude/
