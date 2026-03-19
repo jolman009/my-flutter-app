@@ -20,5 +20,8 @@
         "editor.defaultFormatter": "sweetpad.sweetpad",
         "editor.formatOnSave": true
     },
-    "swift.path": "/Users/joelguzman/Library/Developer/Toolchains/swift-latest.xctoolchain/usr/bin"
+    "swift.path": "/Users/joelguzman/Library/Developer/Toolchains/swift-latest.xctoolchain/usr/bin",
+    "git.ignoredRepositories": [
+        "flutter"
+    ]
 }

@@ -73,7 +73,7 @@ class _HabitEditorScreenState extends ConsumerState<HabitEditorScreen> {
               ),
               const SizedBox(height: 12),
               DropdownButtonFormField<HabitFrequency>(
-                value: _frequency,
+                initialValue: _frequency,
                 onChanged: (value) {
                   if (value != null) {
                     setState(() => _frequency = value);

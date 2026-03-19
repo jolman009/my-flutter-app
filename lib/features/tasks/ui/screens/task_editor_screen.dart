@@ -73,7 +73,7 @@ class _TaskEditorScreenState extends ConsumerState<TaskEditorScreen> {
               ),
               const SizedBox(height: 12),
               DropdownButtonFormField<TaskPriority>(
-                value: _priority,
+                initialValue: _priority,
                 onChanged: (value) {
                   if (value != null) {
                     setState(() => _priority = value);

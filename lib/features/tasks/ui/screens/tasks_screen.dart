@@ -5,7 +5,6 @@ import '../../../../core/routing/app_router.dart';
 import '../../../../core/widgets/app_empty_state.dart';
 import '../../../../core/widgets/app_error_view.dart';
 import '../../../../core/widgets/confirm_delete_dialog.dart';
-import '../../application/tasks_controller.dart';
 import '../../application/tasks_providers.dart';
 import '../widgets/task_filter_bar.dart';
 import '../widgets/task_list_item.dart';

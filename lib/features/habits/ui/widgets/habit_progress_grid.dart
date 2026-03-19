@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-import '../../../../core/utils/date_utils.dart';
 import '../../application/habits_controller.dart';
 
 class HabitProgressGrid extends StatelessWidget {
